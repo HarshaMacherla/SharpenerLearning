@@ -3,3 +3,7 @@ Hello, everyone.
 This is my first file in SharpenerLearning Repository.
 
 I am adding a new line.
+
+I am adding another line.
+
+This will be my final commit.
